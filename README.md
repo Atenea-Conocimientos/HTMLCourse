@@ -1,7 +1,6 @@
 # htmlcourse
 
-This is a Next.js application generated with
-[Create Fumadocs](https://github.com/fuma-nama/fumadocs).
+
 
 Run development server:
 
@@ -23,4 +22,4 @@ resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
   features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Fumadocs](https://fumadocs.vercel.app) - learn about Fumadocs
+
